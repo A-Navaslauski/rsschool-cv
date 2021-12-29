@@ -22,7 +22,7 @@ I am 21 years old. At the moment I would like to study Front-end development in 
 * Git/GitHub
 * VsCode
 
-## Code Example: ##
+## Code Exampl: ##
 ```javascript
 function multiply(a, b) {
   a * b

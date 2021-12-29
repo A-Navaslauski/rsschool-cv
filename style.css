@@ -1,0 +1,97 @@
+*{align-items: center;
+box-sizing: border-box;}
+
+body{
+border-left: 1px solid;
+border-right: 1px solid;
+margin: 0 auto;
+overflow-x: hidden;
+width: 70%;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+header{font-size: 2em;
+color: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: rgb(15, 23, 92);
+display: flex;
+padding: 1%;
+flex-direction: column-reverse;
+}
+
+main{display: flex;}
+
+footer{background-color: rgb(15, 23, 92);
+display: flex;
+align-items: center;
+border-top: 1px solid;
+}
+
+.avatar{border-radius: 50%;
+width: 9em;
+position: relative;
+}
+
+h2{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 1.7em;
+color:rgb(15, 23, 92) ;
+font-weight: bold;
+margin-left: 1%;}
+
+li{font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1.1em;
+color: black;
+}
+
+h4{color:rgb(15, 23, 92) ;
+font-size: 1.2em;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-left: 2%;}
+
+p{color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1.1em;
+margin-left: 1%;
+}
+
+code{font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1.1em;
+color: black;
+margin-left: 2%;}
+
+.right{margin-left: 1%;
+}
+
+.footer-year{color: white;
+font-size: 1.3em;
+margin-left: 3%;}
+
+.footer-git{color: white;
+font-size: 1.3em;
+margin-left: 35%;}
+
+.footer-rsschool{margin-left: 35%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
